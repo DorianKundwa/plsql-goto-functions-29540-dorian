@@ -2,7 +2,7 @@
 
 **Name:** Turashimye Dorian Kundwa
 **Student ID:** 29540
-**Group:** <B>
+**Group:** B
 
 ## Overview
 
@@ -51,4 +51,4 @@ Run the scripts in this exact order:
 
 ## Notes
 
-<ai assistant was used to help and correct some errors>
+ai assistant was used to help understand some concepts and correct some errors
