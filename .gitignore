@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# SQL Developer connection exports -- may contain credentials, never commit
+*.ddc
+*.jws
+
+# Editor files
+.vscode/
+*.swp
+
+# Raw screenshots folder
+screen shoots/
+
