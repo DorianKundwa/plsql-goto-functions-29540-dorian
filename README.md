@@ -1,8 +1,8 @@
 # PL/SQL GOTO Statements and Functions — Individual Assignment III
 
-**Name:** Dorian Kundwa
+**Name:** Turashimye Dorian Kundwa
 **Student ID:** 29540
-**Group:** <B / C / D / I>
+**Group:** <B>
 
 ## Overview
 
